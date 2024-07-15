@@ -1,0 +1,32 @@
+
+html explanation
+html progm lang r wat
+wats element in <html>
+wat r the type of heading in html 
+withoutclosing tag names
+wat is br tag
+
+explain type of css write in </html>
+diff bw class and id
+wat is pseduo clas nd element
+position property
+wat in Z index 
+wat is CSS and Sass diff CSS nd Sass 
+wat is flex
+explain disply property 
+diff bw padddig and margin
+css box model
+grid system in css 
+diff bw px and rem
+explain block nd inline level elements 
+explain the type of selectors
+wat is th advantage in css
+
+
+
+
+css3 new features 
+html5 new features
+
+
+
